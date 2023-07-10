@@ -4,4 +4,6 @@
 
 ### Cyber Uplink is so awesome
 
+![Image of Yaktocat at Cyber Uplink](https://octodex.github.com/images/yaktocat.png)
+
 Commit message
